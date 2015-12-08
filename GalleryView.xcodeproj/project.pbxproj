@@ -32,6 +32,7 @@
 		DCB7F0E51C16C863000F5460 /* Default-iOS7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DCB7F0D91C16C863000F5460 /* Default-iOS7@2x.png */; settings = {ASSET_TAGS = (); }; };
 		DCB7F0E61C16C863000F5460 /* 37x-Checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = DCB7F0DA1C16C863000F5460 /* 37x-Checkmark.png */; settings = {ASSET_TAGS = (); }; };
 		DCB7F0E71C16C863000F5460 /* 37x-Checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DCB7F0DB1C16C863000F5460 /* 37x-Checkmark@2x.png */; settings = {ASSET_TAGS = (); }; };
+		DCB7F0EA1C16D899000F5460 /* screenshots.gif in Resources */ = {isa = PBXBuildFile; fileRef = DCB7F0E91C16D899000F5460 /* screenshots.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		DCB7F0D91C16C863000F5460 /* Default-iOS7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-iOS7@2x.png"; sourceTree = "<group>"; };
 		DCB7F0DA1C16C863000F5460 /* 37x-Checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Checkmark.png"; sourceTree = "<group>"; };
 		DCB7F0DB1C16C863000F5460 /* 37x-Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Checkmark@2x.png"; sourceTree = "<group>"; };
+		DCB7F0E91C16D899000F5460 /* screenshots.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshots.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 		DC95A7F81C0E8F2E00D41AC5 /* GalleryView */ = {
 			isa = PBXGroup;
 			children = (
+				DCB7F0E91C16D899000F5460 /* screenshots.gif */,
 				DC95A8451C0ECB0E00D41AC5 /* resource */,
 				DC95A8321C0E8F4A00D41AC5 /* view */,
 				DC95A7FC1C0E8F2E00D41AC5 /* AppDelegate.h */,
@@ -350,6 +353,7 @@
 				DC95A8041C0E8F2E00D41AC5 /* Main.storyboard in Resources */,
 				DCB7F0E41C16C863000F5460 /* Default-iOS7-568h@2x.png in Resources */,
 				DCB7F0DE1C16C863000F5460 /* Icon-Small.png in Resources */,
+				DCB7F0EA1C16D899000F5460 /* screenshots.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
